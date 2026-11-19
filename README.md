@@ -78,11 +78,11 @@ Bright-line items flagged and routed during the engagement (decisions belong to 
 
 ## Screenshots
 
-*(Add 2–3 screenshots with made-up data: a clean three-language draft, the date-confirmation question, and the refusal of private details.)*
+*Screenshots with made-up data: a clean three-language draft, the date-confirmation question, and the refusal of private details.)*
 
-![Three-language draft](screenshots/draft.png)
-![Date confirmation](screenshots/date-check.png)
-![Privacy refusal](screenshots/privacy-refusal.png)
+![Three-language draft](draft.png)
+![Date confirmation](date-check.png)
+![Privacy refusal](privacy-refusal.png)
 
 ## Demo Video
 
