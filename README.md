@@ -86,7 +86,7 @@ Bright-line items flagged and routed during the engagement (decisions belong to 
 
 ## Demo Video
 
-[Watch the staff training walkthrough](ADD-VIDEO-LINK-HERE)
+[Watch the staff training walkthrough](https://drive.google.com/file/d/14VUudaVQ8laH27UWXHkoyH4B3BLOjK0p/view?usp=sharing)
 
 ## Repository Contents
 
